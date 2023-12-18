@@ -230,3 +230,39 @@ form{
     border-bottom: 1px solid white;
     width: 100%;
 }
+
+.reachout{
+    text-align: center;
+    margin-top: 3em;
+}
+
+.reachout h2{
+    margin-bottom: 8px;
+}
+
+.reachout img{
+    margin-top: 0em;
+    width: 2em;
+    height: 2em;
+    border: 2px solid white;
+}
+
+.reachout img:hover{
+    cursor: pointer;
+    border: 2px solid rgb(96, 158, 240);
+    border-radius: 1px;
+}
+
+hr{
+    margin-top: 1.5em;
+
+    border: none;
+    border-bottom: 1px solid rgb(102, 98, 98);
+}
+
+.copyright{
+    margin-top: 2em;
+    font-style: bold;
+    font-size: large;
+    text-align: center;
+}
